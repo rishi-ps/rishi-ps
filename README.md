@@ -10,7 +10,7 @@ Tech Stack: PyTorch, Scikit-Learn, Pandas, NumPy, OpenCV, Matplotlib, Seaborn
 
 🎯 Pronouns: He/him <br/>
 📬 Reach me at: <br/>
-📧 Email: rishi.sivakumar10@gmail.com or riships@umd.edu <br/>
+📧 Email: rishi.parth21@gmail.com or riships@umd.edu <br/>
 🔗 LinkedIn: [linkedin.com/in/rishi-sivakumar](https://www.linkedin.com/in/rishi-sivakumar/) <br/>
 
 
